@@ -62,7 +62,7 @@ nav li:hover, li.active{
 }
 
 /*media query*/
-@media (max-width: 768 px){
+@media (max-width: 768px){
     header {width: 100%};
     main {width: 100%};
     nav {width: 100%};
